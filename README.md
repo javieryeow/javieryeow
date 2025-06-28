@@ -8,7 +8,7 @@ An aspiring software engineer and analyst with a passion for blending **software
 
 ### 🔢 Premier League Match Predictor
 - Built an end-to-end ML pipeline using **XGBoost** trained on 25 seasons of match data  
-- Achieved ~60% outcome accuracy, RMSE ~1.0 for goal predictions, and Brier Score of ~0.40  
+- Achieved ~65% outcome accuracy, RMSE ~1.0 for goal predictions, and Brier Score of ~0.40  
 - Engineered 30+ features including historical performance, team strength, and fixture dynamics  
 
 ### 🧠 GenAI Chatbot with RAG
