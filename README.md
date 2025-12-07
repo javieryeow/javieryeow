@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Javier!
 ---
 ## 🚀 About me
-An aspiring software engineer and analyst with a passion for blending **software engineering, finance, and machine learning**. Currently pursuing a B.Comp (Hons) in Information Systems at NUS, minoring in Quantitative Finance. I enjoy learning about tech and finance, and am passionate about making sense of financial markets with a data-driven perspective!
+An aspiring software engineer with a passion for blending **software engineering, finance, and machine learning**. Currently pursuing a B.Comp (Hons) in Information Systems at NUS, minoring in Quantitative Finance. I enjoy learning about tech and finance, and am passionate about making sense of financial markets with a data-driven perspective!
 
 ---
 ## 🛠 Stuff I've been working on!
