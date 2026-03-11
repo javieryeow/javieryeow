@@ -1,17 +1,17 @@
 ## Hi there 👋 I'm Javier!
 ---
-## 🚀 About me
+## About me
 An aspiring software engineer currently pursuing a B.Comp (Hons) in Information Systems at NUS, minoring in Quantitative Finance. I enjoy learning about all things tech!
 
 ---
-## 🛠 Stuff I've been working on!
+## Stuff I've been working on!
 
-### 🔢 Premier League Match Predictor
+### Premier League Match Predictor
 - Built an end-to-end ML pipeline using **XGBoost** trained on 25 seasons of match data  
 - Achieved ~65% outcome accuracy, RMSE ~1.0 for goal predictions, and Brier Score of ~0.40  
 - Engineered 30+ features including historical performance, team strength, and fixture dynamics  
 
-### 🧠 GenAI Chatbot with RAG
+### GenAI Chatbot with RAG
 - React + Next.js frontend, RESTful backend using OpenAI Assistant API  
 - Implemented **Retrieval-Augmented Generation** with vector embeddings for smarter responses  
 - Used streaming to enhance interaction speed and responsiveness
