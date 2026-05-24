@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Javier!
+## hi there 👋 i'm javier!
 ---
 ## About me
-An aspiring software engineer currently pursuing a B.Comp (Hons) in Information Systems at NUS, minoring in Quantitative Finance. I enjoy learning about all things tech!
+currently pursuing information systems @ national university of singapore. particularly interested in backend development and making difficult things work! in my free time, i also enjoy playing football, gaming and trying different types of coffee :)
 
 ---
-## Stuff I've been working on!
+## stuff i've been working on!
 
 ### Premier League Match Predictor
 - Built an end-to-end ML pipeline using **XGBoost** trained on 25 seasons of match data  
@@ -22,7 +22,7 @@ An aspiring software engineer currently pursuing a B.Comp (Hons) in Information 
 [![GitHub Streak](https://streak-stats.demolab.com?user=javieryeow&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/javieryeow) | 📩 javieryeow@gmail.com
+📫 let's connect: [LinkedIn](https://linkedin.com/in/javieryeow) | 📩 javieryeow@gmail.com
 
 
 
