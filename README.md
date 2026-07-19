@@ -18,7 +18,6 @@ currently pursuing information systems @ national university of singapore. parti
   
 ---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=javieryeow&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javieryeow&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=javieryeow&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
