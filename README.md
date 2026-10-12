@@ -9,7 +9,6 @@ currently pursuing information systems @ national university of singapore. parti
 building small applications and projects to work on my fundamentals and improve my understanding of cool concepts like concurrency!
   
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=javieryeow&theme=react-dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=javieryeow&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
