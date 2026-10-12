@@ -6,15 +6,7 @@ currently pursuing information systems @ national university of singapore. parti
 ---
 ## stuff i've been working on!
 
-### Premier League Match Predictor
-- Built an end-to-end ML pipeline using **XGBoost** trained on 25 seasons of match data  
-- Achieved ~65% outcome accuracy, RMSE ~1.0 for goal predictions, and Brier Score of ~0.40  
-- Engineered 30+ features including historical performance, team strength, and fixture dynamics  
-
-### GenAI Chatbot with RAG
-- React + Next.js frontend, RESTful backend using OpenAI Assistant API  
-- Implemented **Retrieval-Augmented Generation** with vector embeddings for smarter responses  
-- Used streaming to enhance interaction speed and responsiveness
+building small applications and projects to work on my fundamentals and improve my understanding of cool concepts like concurrency!
   
 ---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=javieryeow&theme=react-dark)
