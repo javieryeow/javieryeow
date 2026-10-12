@@ -1,5 +1,4 @@
 ## hi there 👋 i'm javier!
----
 ## about me
 currently pursuing information systems @ national university of singapore. particularly interested in backend development and making difficult things work! in my free time, i also enjoy playing football, gaming and trying different types of coffee :)
 
