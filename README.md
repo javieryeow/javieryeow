@@ -7,8 +7,8 @@ currently pursuing information systems @ national university of singapore. parti
 ## stuff i've been working on!
 
 building small applications and projects to work on my fundamentals and improve my understanding of cool concepts like concurrency!
-  
----
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=javieryeow&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
